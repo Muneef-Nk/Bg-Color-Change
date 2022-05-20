@@ -1,0 +1,14 @@
+.btn{
+     background-color:#000000;
+     color: rgb(255, 255, 255);
+     padding: 15px 32px;
+     font-size: 16px;
+     cursor: pointer;
+    margin: 25% 50%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+.btn:hover{
+     background-color: rgb(255, 255, 255);
+     color: #000000;
+}
